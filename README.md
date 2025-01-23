@@ -47,18 +47,15 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Tienda online</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://github.com/Kiki-eli/imgen/raw/main/tienda online.PNG" width="400" alt="Tienda online"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>La tienda online, enfocada en ofrecer una experiencia de compra intuitiva y atractiva. Cada proyecto destaca la interfaz de usuario (UI) y la experiencia de usuario (UX), con un diseño responsivo que se adapta a dispositivos móviles y de escritorio. Incluye características como navegación simplificada, procesos de pago seguros y eficientes, y una presentación visual impactante de los productos.</p>
 </div>
                                                                                       
 </td>       
