@@ -32,10 +32,10 @@
                <br>
 <h3 align="center">Login responsivo</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/Kiki-eli/imgen/raw/main/login.PNG" width="400" alt="Login"></a>
+<a href="https://github.com/Kiki-eli/login/blob/main/index.html" target="_blank"><img src="https://github.com/Kiki-eli/imgen/raw/main/login.PNG" width="400" alt="Login"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/Kiki-eli/login/blob/main/index.html" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
@@ -49,9 +49,9 @@
 <td width="50%">
 <h3 align="center">Tienda online</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://github.com/Kiki-eli/imgen/raw/main/tienda online.PNG" width="400" alt="Tienda online"></a>
+<a href="" target="_blank"><img src="https://github.com/Kiki-eli/imgen/raw/main/tienda online.PNG" width="400" alt="Tienda online"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -63,9 +63,9 @@
 <td width="50%">
 <h3 align="center">Tienda de cafe</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://github.com/Kiki-eli/imgen/raw/main/cafelover.PNG" width="400" alt="Cafe lovers"></a>
+<a href="" target="_blank"><img src="https://github.com/Kiki-eli/imgen/raw/main/cafelover.PNG" width="400" alt="Cafe lovers"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
