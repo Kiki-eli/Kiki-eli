@@ -19,13 +19,11 @@
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/Kiki-eli/imgen/raw/main/fashon.PNG" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=red">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
+
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Hombre Fashion es un espacio dedicado exclusivamente a la moda masculina, donde se fusionan la elegancia y la funcionalidad. La tienda presenta una variedad de prendas que van desde lo casual hasta lo formal, con un enfoque en la calidad y el diseño contemporáneo. Cada colección está pensada para el hombre moderno que busca expresarse a través de su estilo.</p>
 </div>
                                                                                       
 </td>
